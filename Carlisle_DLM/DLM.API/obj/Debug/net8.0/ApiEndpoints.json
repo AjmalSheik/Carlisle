@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "DLM.API.Controllers.Doctors.DoctorController",
+    "Method": "CreateDoctor",
+    "RelativePath": "api/Doctor/CreateDoctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "DLM.Application.Features.Doctors.Commands.CreateDoctorCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLM.API.Controllers.Doctors.DoctorController",
+    "Method": "DeleteDoctor",
+    "RelativePath": "api/Doctor/DeleteDoctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "DLM.Application.Features.Doctors.Commands.DeleteDoctorCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLM.API.Controllers.Doctors.DoctorController",
+    "Method": "GetDoctorById",
+    "RelativePath": "api/Doctor/GetDoctorById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "DLM.Application.Features.Doctors.Queries.GetDoctorByIdQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLM.API.Controllers.Doctors.DoctorController",
+    "Method": "GetDoctors",
+    "RelativePath": "api/Doctor/GetDoctors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "DLM.Application.Features.Doctors.Queries.GetDoctorsQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DLM.API.Controllers.Doctors.DoctorController",
+    "Method": "UpdateDoctor",
+    "RelativePath": "api/Doctor/UpdateDoctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "DLM.Application.Features.Doctors.Commands.UpdateDoctorCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

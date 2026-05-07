@@ -1,0 +1,12 @@
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\bin\Debug\net8.0\DLM.Domain.deps.json
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\bin\Debug\net8.0\DLM.Domain.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\bin\Debug\net8.0\DLM.Domain.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\DLM.Domain.csproj.AssemblyReference.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\DLM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\DLM.Domain.AssemblyInfoInputs.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\DLM.Domain.AssemblyInfo.cs
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\DLM.Domain.csproj.CoreCompileInputs.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\DLM.Domain.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\refint\DLM.Domain.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\DLM.Domain.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Domain\obj\Debug\net8.0\ref\DLM.Domain.dll

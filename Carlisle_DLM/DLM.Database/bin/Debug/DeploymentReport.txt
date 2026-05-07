@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Doctors] (Table)
+       [dbo].[DF_Doctors_Status] (Default Constraint)
+       [dbo].[DF_Doctors_CreatedDate] (Default Constraint)
+       [dbo].[DF_Doctors_IsDeleted] (Default Constraint)
+       [dbo].[sp_GetDoctors] (Procedure)
+       [dbo].[sp_GetExpiredDoctors] (Procedure)
+
+** Supporting actions
+
+The compatibility level of the target schema 170 is not supported, which may result in undefined behavior. Please upgrade to a later version which supports this compatibility level.
+

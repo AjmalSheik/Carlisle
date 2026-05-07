@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A566CA-8E1B-4A3E-BF99-8C2DF0BBFA2E}|DLM.API\\DLM.API.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.api\\controllers\\doctors\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A566CA-8E1B-4A3E-BF99-8C2DF0BBFA2E}|DLM.API\\DLM.API.csproj|solutionrelative:dlm.api\\controllers\\doctors\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\validators\\updatedoctorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\validators\\updatedoctorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEEF4E7-A734-4BEA-BE21-5CF2D1777C8A}|DLM.Infrastructure\\DLM.Infrastructure.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.infrastructure\\repositories\\doctors\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEEF4E7-A734-4BEA-BE21-5CF2D1777C8A}|DLM.Infrastructure\\DLM.Infrastructure.csproj|solutionrelative:dlm.infrastructure\\repositories\\doctors\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\interfaces\\doctors\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\interfaces\\doctors\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\validators\\deletedoctorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\validators\\deletedoctorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\validators\\createdoctorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\validators\\createdoctorcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\commands\\updatedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\commands\\updatedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\validators\\getdoctorbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\validators\\getdoctorbyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetExpiredDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|solutionrelative:DLM.Database\\Stored Procedures\\sp_GetExpiredDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\commands\\deletedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\commands\\deletedoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEEF4E7-A734-4BEA-BE21-5CF2D1777C8A}|DLM.Infrastructure\\DLM.Infrastructure.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEEF4E7-A734-4BEA-BE21-5CF2D1777C8A}|DLM.Infrastructure\\DLM.Infrastructure.csproj|solutionrelative:dlm.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\queries\\getdoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\queries\\getdoctorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\commands\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\commands\\createdoctorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\features\\doctors\\dtos\\doctorspdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\features\\doctors\\dtos\\doctorspdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|solutionrelative:DLM.Database\\Stored Procedures\\sp_GetDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A566CA-8E1B-4A3E-BF99-8C2DF0BBFA2E}|DLM.API\\DLM.API.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A566CA-8E1B-4A3E-BF99-8C2DF0BBFA2E}|DLM.API\\DLM.API.csproj|solutionrelative:dlm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A566CA-8E1B-4A3E-BF99-8C2DF0BBFA2E}|DLM.API\\DLM.API.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A566CA-8E1B-4A3E-BF99-8C2DF0BBFA2E}|DLM.API\\DLM.API.csproj|solutionrelative:dlm.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\common\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\common\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BEEF4E7-A734-4BEA-BE21-5CF2D1777C8A}|DLM.Infrastructure\\DLM.Infrastructure.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BEEF4E7-A734-4BEA-BE21-5CF2D1777C8A}|DLM.Infrastructure\\DLM.Infrastructure.csproj|solutionrelative:dlm.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A3C20F-C38F-44B3-A662-54847BA36C5F}|DLM.Domain\\DLM.Domain.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A3C20F-C38F-44B3-A662-54847BA36C5F}|DLM.Domain\\DLM.Domain.csproj|solutionrelative:dlm.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|c:\\ajmal\\test_app\\docter_license_management\\carlisle_dlm\\dlm.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA1EC1A5-0989-4DDD-89D7-8375DFB06A0B}|DLM.Application\\DLM.Application.csproj|solutionrelative:dlm.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|solutionrelative:DLM.Database\\Stored Procedures\\sp_GetDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetExpiredDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B37A031B-D52E-42C3-B9D8-74EBAF76E2C0}|DLM.Database\\DLM.Database.sqlproj|solutionrelative:DLM.Database\\Stored Procedures\\sp_GetExpiredDoctors.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateDoctorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\UpdateDoctorCommandValidator.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Validators\\UpdateDoctorCommandValidator.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\UpdateDoctorCommandValidator.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Validators\\UpdateDoctorCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:19:58.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "DLM.Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:12:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDoctorByIdQueryValidator.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\GetDoctorByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Validators\\GetDoctorByIdQueryValidator.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\GetDoctorByIdQueryValidator.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Validators\\GetDoctorByIdQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:51:26.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteDoctorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\DeleteDoctorCommandValidator.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Validators\\DeleteDoctorCommandValidator.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\DeleteDoctorCommandValidator.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Validators\\DeleteDoctorCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:58:40.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.API\\Controllers\\Doctors\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DLM.API\\Controllers\\Doctors\\DoctorController.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.API\\Controllers\\Doctors\\DoctorController.cs",
+              "RelativeToolTip": "DLM.API\\Controllers\\Doctors\\DoctorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:33:02.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Interfaces\\Doctors\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Interfaces\\Doctors\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Interfaces\\Doctors\\IDoctorRepository.cs",
+              "RelativeToolTip": "DLM.Application\\Interfaces\\Doctors\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:44:02.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Infrastructure\\Repositories\\Doctors\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DLM.Infrastructure\\Repositories\\Doctors\\DoctorRepository.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Infrastructure\\Repositories\\Doctors\\DoctorRepository.cs",
+              "RelativeToolTip": "DLM.Infrastructure\\Repositories\\Doctors\\DoctorRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:00:04.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateDoctorCommand.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Commands\\UpdateDoctorCommand.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Commands\\UpdateDoctorCommand.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Commands\\UpdateDoctorCommand.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Commands\\UpdateDoctorCommand.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA6wDYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:18:16.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateDoctorCommandValidator.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\CreateDoctorCommandValidator.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Validators\\CreateDoctorCommandValidator.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Validators\\CreateDoctorCommandValidator.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Validators\\CreateDoctorCommandValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:50:10.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DLM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "DLM.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:20:16.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteDoctorCommand.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Commands\\DeleteDoctorCommand.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Commands\\DeleteDoctorCommand.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Commands\\DeleteDoctorCommand.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Commands\\DeleteDoctorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:58:01.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sp_GetDoctors.sql ",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetDoctors.sql",
+              "RelativeDocumentMoniker": "DLM.Database\\Stored Procedures\\sp_GetDoctors.sql",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetDoctors.sql\r\n(localdb)\\ProjectModels.DLM.Database\r\n(AZIZI\\Sheik.Ajmal)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-07T10:46:39.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sp_GetExpiredDoctors.sql ",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetExpiredDoctors.sql",
+              "RelativeDocumentMoniker": "DLM.Database\\Stored Procedures\\sp_GetExpiredDoctors.sql",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Database\\Stored Procedures\\sp_GetExpiredDoctors.sql\r\n(localdb)\\ProjectModels.DLM.Database\r\n(AZIZI\\Sheik.Ajmal)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-07T11:26:15.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetDoctorsQuery.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Queries\\GetDoctorsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:01:29.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateDoctorCommand.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\Commands\\CreateDoctorCommand.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:01:54.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorSPDto.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\DTOs\\DoctorSPDto.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Features\\Doctors\\DTOs\\DoctorSPDto.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Features\\Doctors\\DTOs\\DoctorSPDto.cs",
+              "RelativeToolTip": "DLM.Application\\Features\\Doctors\\DTOs\\DoctorSPDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T11:26:51.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.API\\Program.cs",
+              "RelativeDocumentMoniker": "DLM.API\\Program.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.API\\Program.cs",
+              "RelativeToolTip": "DLM.API\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:04:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Common\\Automapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Common\\Automapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Common\\Automapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "DLM.Application\\Common\\Automapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:21:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "DLM.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "DLM.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T10:47:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "DLM.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "DLM.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:31:35.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "DLM.Domain\\Class1.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Domain\\Class1.cs",
+              "RelativeToolTip": "DLM.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:31:11.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "DLM.Application\\Class1.cs",
+              "ToolTip": "C:\\Ajmal\\TEST_app\\docter_license_management\\Carlisle_DLM\\DLM.Application\\Class1.cs",
+              "RelativeToolTip": "DLM.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:30:19.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

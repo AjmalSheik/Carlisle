@@ -1,0 +1,17 @@
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\bin\Debug\net8.0\DLM.Infrastructure.deps.json
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\bin\Debug\net8.0\DLM.Infrastructure.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\bin\Debug\net8.0\DLM.Infrastructure.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\bin\Debug\net8.0\DLM.Application.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\bin\Debug\net8.0\DLM.Domain.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\bin\Debug\net8.0\DLM.Application.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\bin\Debug\net8.0\DLM.Domain.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infrastructure.csproj.AssemblyReference.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infrastructure.AssemblyInfoInputs.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infrastructure.AssemblyInfo.cs
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infr.79435D73.Up2Date
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infrastructure.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\refint\DLM.Infrastructure.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\DLM.Infrastructure.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Infrastructure\obj\Debug\net8.0\ref\DLM.Infrastructure.dll

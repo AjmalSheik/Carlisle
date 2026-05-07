@@ -1,0 +1,15 @@
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\bin\Debug\net8.0\DLM.Application.deps.json
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\bin\Debug\net8.0\DLM.Application.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\bin\Debug\net8.0\DLM.Application.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\bin\Debug\net8.0\DLM.Domain.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\bin\Debug\net8.0\DLM.Domain.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Application.csproj.AssemblyReference.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Application.AssemblyInfoInputs.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Application.AssemblyInfo.cs
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Application.csproj.CoreCompileInputs.cache
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Appl.E1CFA23A.Up2Date
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Application.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\refint\DLM.Application.dll
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\DLM.Application.pdb
+C:\Ajmal\TEST_app\docter_license_management\Carlisle_DLM\DLM.Application\obj\Debug\net8.0\ref\DLM.Application.dll
