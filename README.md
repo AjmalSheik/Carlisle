@@ -53,7 +53,15 @@ Solution Structure
 Hosted API
 
 
- Swagger URL: [http://carlisle-ajmal-env.eba-ypthxjp7.eu-north-1.elasticbeanstalk.com/swagger/index.html](http://carlisle-ajmal-env.eba-ypthxjp7.eu-north-1.elasticbeanstalk.com/swagger/index.html)
+ Swagger URL: **[http://carlisle-ajmal-env.eba-ypthxjp7.eu-north-1.elasticbeanstalk.com/swagger/index.html](http://carlisle-ajmal-env.eba-ypthxjp7.eu-north-1.elasticbeanstalk.com/swagger/index.html)**
+
+ Frontend
+
+Built using Next.js
+Components structured into reusable components
+Hosted in AWS
+
+* **http://carlisle-ajmal.s3-website.eu-north-1.amazonaws.com/**
 
 Notes
 * i used my personal aws account and azure sql for hosting
